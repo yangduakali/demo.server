@@ -1,0 +1,17 @@
+{
+    "name": "com.network.riptide",
+    "rootNamespace": "network.riptide",
+    "references": [
+        "GUID:d9bbc61d820433c42883dc4de8b0e42f",
+        "GUID:45843e49784b28b43883931c03e6cd22"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
