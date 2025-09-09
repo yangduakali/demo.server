@@ -3,6 +3,5 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Assets/com.network.riptide" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/Packages/com.extension" vcs="Git" />
   </component>
 </project>
