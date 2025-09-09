@@ -1,0 +1,16 @@
+{
+    "name": "com.tp.slash",
+    "rootNamespace": "tp.slash",
+    "references": [
+        "GUID:52a5ab3e537ea2e4aa0bc73f7db199da"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

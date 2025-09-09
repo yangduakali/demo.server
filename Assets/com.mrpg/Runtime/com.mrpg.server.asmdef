@@ -1,0 +1,21 @@
+{
+    "name": "com.mrpg.server",
+    "rootNamespace": "mrpg.server",
+    "references": [
+        "GUID:45843e49784b28b43883931c03e6cd22",
+        "GUID:52a5ab3e537ea2e4aa0bc73f7db199da",
+        "GUID:a0fc70e45d79cb7489c33f6e786095b4",
+        "GUID:b2a3257799030384eb7762944f166119",
+        "GUID:cd17a597b8a560544b6fa5cd397464d3",
+        "GUID:7cc042c69a943724dbf5b13e4beed01b"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
